@@ -1,0 +1,19 @@
+{
+    "actions": {
+        "acqdatetime": {
+            "filters": {}, 
+            "params": {}
+        }, 
+        "epls_qa": {
+            "filters": {}, 
+			"params": {}
+        }
+    }, 
+    "cfgformat": "20220412", 
+    "comments": {
+        "author": "Peter Stijnman, UMCU", 
+        "creator": " ", 
+        "description": "Wrapperfile laser positioning system QA", 
+        "version": "20220412"
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "comments": {
+        "author": "Peter Stijnman",
+        "creator": "",
+        "description": "EPLS QA"
+    },
+    "metaformat":"20220412",
+    "results": {
+        "AcquisitionDateTime": {
+            "constraint_period": 90,
+            "description": "date and time of acquisition",
+            "display_level": 2,
+            "display_name": "DateTime",
+            "units": ""
+        },
+	"ISOC_x [mm]": {
+            "constraint_minlowhighmax": [
+                -2,
+                -2,
+                2,
+                2
+            ],
+            "description": " ",
+            "display_level": 2,
+            "display_name": "ISOC_x",
+            "units": "mm"
+        },
+		"ISOC_y [mm]": {
+            "constraint_minlowhighmax": [
+                -2,
+                -2,
+                2,
+                2
+            ],
+            "description": " ",
+            "display_level": 2,
+            "display_name": "ISOC_y",
+            "units": "mm"
+        },
+		"ISOC_z [mm]": {
+            "constraint_minlowhighmax": [
+                -2,
+                -2,
+                2,
+                2
+            ],
+            "description": " ",
+            "display_level": 2,
+            "display_name": "ISOC_z",
+            "units": "mm"
+        }
+    }
+}
